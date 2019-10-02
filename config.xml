@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "scratchnapped.griffpatch.edu.mit.scratch"
+        id          = "scratch.griff.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>scratchnapped</name>
+    <name>Plantera</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
     </description>
 
-    <author href="http://scratch.mit.edu/users/griffpatch"email="899noah@gmail.com">
+    <author href="http://scratch.mit.edu/users/899noah"email="899noah@gmail.com">
        
     </author>
 
